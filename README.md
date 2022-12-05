@@ -19,4 +19,4 @@ Using the query editor to write the code we star filtering the information to cr
       •	Mentorships need to start the mentorship program right away if they want to minimize the damage
 
 ## MENTORSHIP
-      •	If mentorship program is executed on time PH can minimize the risk of the company to stop the normal flow but still get affected because now the company have 10%         of mentorship eligibility against the 15142 of retirements in the Sales and Development Departments 
+      •If mentorship program is executed on time PH can minimize the risk of the company to stop the normal flow but still get affected because now the company have 10 of mentorship eligibility against the 15142 of retirements in the Sales and Development Departments 
